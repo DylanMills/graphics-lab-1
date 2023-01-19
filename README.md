@@ -10,4 +10,4 @@ Tasks:
 - [X] Built unity project
 - [X] custom shader
 - [X] screenshot of shader
-- [X] Make sure to  ~~~use~~~ ==unique== ```markdown``` *elements*
+- [X] Make sure to  ***use*** **unique** ```markdown``` *elements*
